@@ -16,7 +16,7 @@ def division(a,b):
 	# add code here
 	# return result
 
-print("1+1 is", addition(1,1))
+print("1+2+1 is", addition(1,2,1))
 
 print("1-1 is", substraction(1,1))
 
